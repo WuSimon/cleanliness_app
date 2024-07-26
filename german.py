@@ -34,4 +34,3 @@ convert_heic_to_jpeg("IMG_2602.HEIC","test_image3.jpg")
 text = extract_text_from_image("test_image3.jpg", 'deu')
 
 print(text)
-
